@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map for TMD3725
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TMD3725	KEYWORD1
+TMD3725_Data	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+isConnected	KEYWORD2
+enable	KEYWORD2
+disable	KEYWORD2
+enableProximity	KEYWORD2
+enableALS	KEYWORD2
+setALSGain	KEYWORD2
+setIntegrationTime	KEYWORD2
+setProximityPulses	KEYWORD2
+setProximityDrive	KEYWORD2
+getData	KEYWORD2
+getProximity	KEYWORD2
+getClear	KEYWORD2
+getStatus	KEYWORD2
+clearInterrupts	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TMD3725_GAIN_1X	LITERAL1
+TMD3725_GAIN_4X	LITERAL1
+TMD3725_GAIN_16X	LITERAL1
+TMD3725_GAIN_64X	LITERAL1
+TMD3725_LDRIVE_6MA	LITERAL1
+TMD3725_LDRIVE_12MA	LITERAL1
+TMD3725_LDRIVE_18MA	LITERAL1
+TMD3725_LDRIVE_192MA	LITERAL1
